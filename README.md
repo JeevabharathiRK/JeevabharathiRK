@@ -1,4 +1,4 @@
-### Hi Friends <img aline="right" alt="Just a Hi" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/main/assets/Hi.gif" width="29px">
+### Hi Friends <img align="right" alt="Just a Hi" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/main/sub-files/Hi.gif" width="80px">
 
 <!--
 **JeevabharathiRK/jeevabharathiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
