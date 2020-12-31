@@ -18,3 +18,16 @@ Here are some ideas to get you started:
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK)
+
+
+<div align="center"><img align="left" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" />
+  <h3 align="center">Combine and learn with me</h3>
+  <a href="https://twitter.com/JeevabharathiRK">
+    <img align="center" alt="Jeeva Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  </a>
+  <a href="https://instagram.com/JeevabharathiRK">
+    <img align="center" alt="Jeeva Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+  <a href="https://telegram.dog/JeevabharathiRK">
+    <img align="center" alt="Jeeva Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
