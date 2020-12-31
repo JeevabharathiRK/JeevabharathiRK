@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK)
 
 
-<div align="center"><img align="left" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" />
+<div align="center">
+  <img align="left" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/master/sub-files/welcome.gif" height="100px" width="100px" />
   <h3 align="center">Combine and learn with me</h3>
   <a href="https://twitter.com/JeevabharathiRK">
     <img align="center" alt="Jeeva Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
