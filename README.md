@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with My Assignments
 - ⚡ Fun fact: Thalapathy fan
 
+<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JeevabharathiRK&show_icons=true&count_private=true&include_all_commits=true)
+
