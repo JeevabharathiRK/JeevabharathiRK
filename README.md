@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img align="left" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/master/sub-files/welcome.gif" height="100px" width="100px" />
-  <h3 align="center">Combine and learn with me</h3>
+  <h3 align="center">Connect and learn with me<img align="center" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/main/sub-files/627043g2sjeda947.gif" height="33px" /></h3>
   <a href="https://twitter.com/JeevabharathiRK">
     <img align="center" alt="Jeeva Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
