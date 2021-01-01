@@ -25,9 +25,15 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/JeevabharathiRK">
     <img align="center" alt="Jeeva Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
+   <a href="https://facebook.com/JeevabharathiRK">
+    <img align="center" alt="Jeeva facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
   <a href="https://instagram.com/JeevabharathiRK">
     <img align="center" alt="Jeeva Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
   <a href="https://telegram.dog/JeevabharathiRK">
     <img align="center" alt="Jeeva Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
+  <!--<a href="https:///JeevabharathiRK">
+    <img align="center" alt="Jeeva facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a> -->
