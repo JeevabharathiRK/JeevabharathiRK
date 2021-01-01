@@ -34,12 +34,13 @@ Here are some ideas to get you started:
   <a href="https://telegram.dog/JeevabharathiRK">
     <img align="center" alt="Jeeva Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
+  <a href="https://in.pinterest.com/JeevabharathiRK">
+    <img align="center" alt="Jeeva Pinterest" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/pinterest.svg" />
+  </a>
   <a href="https://reddit.com/user/JeevabharathiRK">
     <img align="center" alt="Jeeva Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/reddit.svg" />
   </a>
   <a href="https://www.linkedin.com/in/JeevabharathiRK">
     <img align="center" alt="Jeeva Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linkedin.svg" />
   </a>
-  <a href="https://in.pinterest.com/JeevabharathiRK">
-    <img align="center" alt="Jeeva Pinterest" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/pinterest.svg" />
-  </a>
+  
