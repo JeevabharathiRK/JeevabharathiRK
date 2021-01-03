@@ -22,25 +22,25 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3 align="center">Connect and learn with me<img align="center" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/main/sub-files/Butterfly.gif" height="33px" /></h3>
-  <a href="https://twitter.com/JeevabharathiRK">
+  <a href="https://twitter.com/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
-   <a href="https://facebook.com/JeevabharathiRK">
+   <a href="https://facebook.com/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
-  <a href="https://instagram.com/JeevabharathiRK">
+  <a href="https://instagram.com/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
-  <a href="https://telegram.dog/JeevabharathiRK">
+  <a href="https://telegram.dog/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
-  <a href="https://in.pinterest.com/JeevabharathiRK">
+  <a href="https://in.pinterest.com/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Pinterest" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/pinterest.svg" />
   </a>
-  <a href="https://reddit.com/user/JeevabharathiRK">
+  <a href="https://reddit.com/user/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/reddit.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/JeevabharathiRK">
+  <a href="https://www.linkedin.com/in/JeevabharathiRK" target="_blank">
     <img align="center" alt="Jeeva Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linkedin.svg" />
   </a>
   
