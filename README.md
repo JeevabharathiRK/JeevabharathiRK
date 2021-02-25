@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JeevabharathiRK&show_icons=true&count_private=true&include_all_commits=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK)<img align="right" alt="loading" src="https://online2pdf.com/images/9.1.0/gears.gif" width="33px">
+
 
 
 <div align="center">
