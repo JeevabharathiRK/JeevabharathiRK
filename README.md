@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JeevabharathiRK&show_icons=true&count_private=true&include_all_commits=true)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK)
 
 
