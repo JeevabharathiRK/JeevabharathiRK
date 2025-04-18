@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working to clear 12th Board
-- 🌱 I’m currently learning HTML
+- 🔭 I’m currently searching for jobs
+- 🌱 I’m currently learning Web frameworks
 - 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with My Assignments
+- 🤔 I’m looking for help with My Career
 - ⚡ Fun fact: Thalapathy fan
 
 
