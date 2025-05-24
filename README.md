@@ -1,20 +1,15 @@
+
+<div align="center">
+   <h1>Hi there, I'm <a href="https://jeevabharathirk.netlify.app/">Jeeva</a> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3liM3BldmRvM3BhdXhkZG55dXQ5bTd2MmllczFtbHV4dXY3Z3RubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" width="35px"> </h1>
+</div>
+
 <img align="right" alt="Just a Hi" src="https://github.com/JeevabharathiRK/JeevabharathiRK/blob/main/sub-files/OGC.gif" width="200px">
 
-<!--
-**JeevabharathiRK/jeevabharathiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently searching for job
-- 🌱 I’m currently learning Web frameworks
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for new connections
-- ⚡ Fun fact: Thalapathy fan
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevabharathiRK&layout=donut)
 
 
 
